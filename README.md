@@ -1,2 +1,2 @@
 # cfg-anatomy-of-the-dog-project
-Final project for Code First Girls Intro to Web Dev course
+As part of the Code First Girls Web Development course, we were instructed to create a multiple-page site which incorporate Javascript. Our group chose to create a site showing the anatomy of animals, creating buttons for different parts of animals and a pop up to give a description. We also created a sign up form to use the skills we had learned during the course. 
